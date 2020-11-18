@@ -5,8 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Some photo from the app
 ![](src/assets/before.PNG)
 
-### Drag a file
-![](src/assets/after.PNG)
+![](src/assets/after.png)
 
 ## Development server
 
